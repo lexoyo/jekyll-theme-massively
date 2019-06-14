@@ -8,7 +8,7 @@ excerpt: >-
 image: /images/pic02.jpg
 
 ---
-## welcome to my website
+## test stastic
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
 
 Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
@@ -28,4 +28,5 @@ sitemap:
 ```
 ### Formspring integration
 The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+
 
