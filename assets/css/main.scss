@@ -1,7 +1,7 @@
 ---
-# Jekyll automatically transpiles this file; access via {{site.url}}/assets/css/main.css
----
+{}
 
+---
 $background_image: '{{site.background_image}}';
 
 @import 'libs/vars';
@@ -69,3 +69,4 @@ $background_image: '{{site.background_image}}';
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+
